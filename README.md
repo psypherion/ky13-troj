@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @ky13-troj [Sayan Sarkar]
-- 👀 I’m currently persuing Bachelors in Physics .
-- 🌱 Beside college I’m currently learning Python,R.
-- Aspiring Python Developer/Data Scientist/M.L Engineer
+👋 Hey there! I'm Sayan Sarkar, a physics aficionado turned tech enthusiast on a journey to explore the intersections of science and technology.
 
-<!---
-ky13-troj/ky13-troj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 With a bachelor's degree in Physics and currently pursuing a master's in Computer, I'm passionate about bridging the gap between theory and application.
+
+💻 As a Python developer, I enjoy crafting solutions that blend my love for coding with the analytical mindset gained from my physics background. My toolbox includes skills in Machine Learning, and I'm currently diving deeper into the world of Cyber Security.
+
+🤖 Leveraging the power of AI and ML, I aspire to contribute to cutting-edge technologies while embracing the challenges of securing our digital landscapes.
+
+🌌 Beyond the binary, I'm a lover of Physics, a coding aficionado, and a seeker of wisdom in philosophy and psychology.
+
+Let's connect and build something extraordinary! 🚀
+
+
+Instagram : @n13tzsch3.exe / @ky13codes
+LinkedIN : https://www.linkedin.com/in/sayan-sarkar-3817a4218/
