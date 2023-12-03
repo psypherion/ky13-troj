@@ -1,10 +1,18 @@
-👋 Hey, I'm Sayan Sarkar, a student who lives for coding and thrives on open-source adventures. 
-🚀 Crafting elegant code is my jam, and every project is a chance to learn something new. 
+# Hi there! 👋
 
-Let's connect and build something extraordinary! 🚀
+Welcome to my GitHub profile! I'm Sayan, a passionate developer and explorer of the vast world of coding. Here, you'll find a collection of projects and repositories that reflect my interests, skills, and journey in the realm of technology.
 
+## 🌱 Current Focus
 
-Instagram : @n13tzsch3.exe / @ky13codes
+I'm currently diving deep into Data Science along with some baby steps in the web development field.
 
+Feel free to explore my repositories, and if you find something interesting or have any suggestions, I'd love to hear from you!
 
-LinkedIN : https://www.linkedin.com/in/sayan-sarkar-3817a4218/
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/sayan-sarkar-3817a4218/)
+- **Instagram:** [personal](https://www.instagram.com/sarkar.sayan01/) 
+- **Website/Blog:** [Medium Blog](https://ky13-troj.medium.com/)
+
+Thank you for visiting my GitHub profile! Happy coding! :)
+
