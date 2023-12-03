@@ -11,7 +11,7 @@ Feel free to explore my repositories, and if you find something interesting or h
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin](https://www.linkedin.com/in/sayan-sarkar-3817a4218/)
-- **Instagram:** [Sayan Sarkarl](https://www.instagram.com/sarkar.sayan01/) 
+- **Instagram:** [Sayan Sarkar](https://www.instagram.com/sarkar.sayan01/) 
 - **Website/Blog:** [Medium Blog](https://ky13-troj.medium.com/)
 
 Thank you for visiting my GitHub profile! Happy coding! :)
