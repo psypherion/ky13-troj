@@ -1,8 +1,8 @@
-# Hi there! 👋
+# Hi there! 🖐️
 
 Welcome to my GitHub profile! I'm Sayan, a passionate developer and explorer of the vast world of coding. Here, you'll find a collection of projects and repositories that reflect my interests, skills, and journey in the realm of technology.
 
-## 🌱 Current Focus
+## U+1F914 Current Focus
 
 I'm currently diving deep into Data Science along with some baby steps in the web development field.
 
