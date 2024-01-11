@@ -16,3 +16,4 @@ Feel free to explore my repositories, and if you find something interesting or h
 
 Thank you for visiting my GitHub profile! Happy coding! :)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
